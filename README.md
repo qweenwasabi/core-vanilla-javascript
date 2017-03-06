@@ -35,8 +35,8 @@ Choose this goal if you're just getting started with the basics of JavaScript an
 
 ## Specifications
 
-- [X ] Artifact produced is a fork of the [core-vjs][core-vjs] repo.
-- [ ] All readings and videos in the `solo_study.md` file are completed and checked off.
+- [X] Artifact produced is a fork of the [core-vjs][core-vjs] repo.
+- [X] All readings and videos in the `solo_study.md` file are completed and checked off.
 - [ ] All exercises and lessons in the `solo_study.md` file are completed and checked off.
 - [ ] Final project is complete and in the proper directory of the artifact.
 
