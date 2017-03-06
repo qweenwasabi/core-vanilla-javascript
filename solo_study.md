@@ -18,13 +18,13 @@ Your objectives for the day is to achieve:
 
 ### Plan
 
-- [ ] Signup for [Udacity Javascript Basics][udacity]
-- [ ] Complete [Getting up and running & Problem Set 0][udacity]
-- [ ] Complete [Data Types and Problem Set 1][udacity]
-- [ ] Complete [Flow Control and Problem Set 2][udacity]
-- [ ] Complete [Quiz: Relationships][udacity]
-- [ ] Complete [Quiz: Astronaut Arrays][udacity]
-- [ ] Complete [Quiz: Pagespeed Insights][udacity]
+- [X] Signup for [Udacity Javascript Basics][udacity]
+- [X] Complete [Getting up and running & Problem Set 0][udacity]
+- [X] Complete [Data Types and Problem Set 1][udacity]
+- [X] Complete [Flow Control and Problem Set 2][udacity]
+- [X] Complete [Quiz: Relationships][udacity]
+- [X] Complete [Quiz: Astronaut Arrays][udacity]
+- [X] Complete [Quiz: Pagespeed Insights][udacity]
 
 
 ### Stretch
@@ -48,16 +48,16 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 *Note: Refer to this handy [Javascript Cheat sheet](http://overapi.com/javascript) if you need it*
 
-### Plan
+### Plan  http://jsbin.com/vetazuv/6/edit?js,console
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
-- [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
- - [ ] Link to your solution here
-- [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
- - [ ] Link to your solution here
-- [ ] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
-- [ ] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
+- [X] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+- [X ]   solution http://jsbin.com/vetazuv/6/edit?js,console or https://repl.it/GIOI/0
+- [X] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
+- [X] solution https://repl.it/GIOP/6
+- [X] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array-methods)
+ - [ ] solution herehttps://repl.it/GIQN/2
+- [ X] Complete the [Learn JS Basics tutorial](http://www.learn-js.org/en/Welcome)
+- [ X] Complete the [Learn JS Objects tutorial](http://www.learn-js.org/en/Object_Oriented_JavaScript)
 
 *These next 3 steps are part of [Front End Masters JS Course](https://frontendmasters.com/courses/js-fundamentals-to-functional/). You might need to watch the videos and part of the course to make it through. Reach out to staff for an invite code if you don't already have an account.*
 
@@ -79,8 +79,8 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 ### Stretch
 
 - [ ] Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript)
-- [ ] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
-- [ ] Watch the first 11 [Fundamentals Videos](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
+- [X] Read [Javascript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
+- [X] Watch the first 11 [Fundamentals Videos](https://channel9.msdn.com/Series/JavaScript-Fundamentals-Development-for-Absolute-Beginners)
 - [ ] Read pages 173 to 184 in [Professional JS for Web Developers][projs]
 - [ ] Signup for a free Team Treehouse trial and complete their [Object Oriented Javascript Course] (https://teamtreehouse.com/library/objectoriented-javascript)
 - [ ] Skim this [cheat sheet][cheat]
@@ -95,10 +95,10 @@ Let's test our understanding by working on some Koans.
 
 - In your forked repo, find the `javascript-koans` sub directory.
 - Find `KoansRunner.html` and open it in a browser
-- [ ] Edit AboutObjects.js to make all tests pass
-- [ ] Edit AboutFunctions.js to make all tests pass
-- [ ] Edit AboutArrays.js to make all tests pass
-- [ ] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
+- [X] Edit AboutObjects.js to make all tests pass
+- [X] Edit AboutFunctions.js to make all tests pass
+- [X] Edit AboutArrays.js to make all tests pass
+- [X] Edit AboutApplyingWhatWeHaveLearnt.js to make all tests pass
 - [ ] Write all 10 functions described in [/challenges/10exercises.js](/challenges/10exercises.js)
 
 Ok, on for some more drills.
