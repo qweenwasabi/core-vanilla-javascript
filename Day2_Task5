@@ -1,0 +1,25 @@
+//Day 2: Arrays, Objects, and lots of Practice
+
+
+// Hello, object
+// importance: 5solution
+// Write the code, each line for an action:
+//
+// Create an empty object user.
+// Add the property name with the value John.
+// Add the property surname with the value Smith.
+// Change the value of the name to Pete.
+// Remove the property name from the object.
+
+
+//1.check for emptiness
+
+let user = new object();
+user = {};
+
+let user = {
+   name: "John";
+   surname: "Smith";
+}
+
+//2.Constant objects?
