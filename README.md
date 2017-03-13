@@ -1,57 +1,92 @@
 ---
-Team Name: sweltering-bettong  - @qweenWasabi
-issueNumber: 174
-teamSize: 1
+Team Name: swanky-sambar
+Team Members: @DeBrayC @qweenwasabi @mistakeets
+issueNumber: 176
+teamSize: 3
+
+# Core Vanilla JavaScript - Team Practice - 1
+
+A marathon of pair exercises in pure javascript. Capped with a final project.
+It's a good idea to cut your teeth on the [solo_study](solo_study.md) first before attempting these challenges.
+
+### Exercism
+
+Exercism provides a number of practice problems along with unit tests to ensure the accuracy of your answer to the test problems. We will be using exercism challenges for the first three days of this goal.
+
+- Read the [Exercism setup](/exercism/setup.md) instructions
+
+### Day 1 - Exercism
+
+- [ ] Solve `/exercism/hamming`
+- [ ] Solve `/exercism/diamond`
+- [ ] Solve `/exercism/bracket-push`
+- [ ] Solve `/exercism/ocr-numbers`
+- [ ] Solve `/exercism/bowling`
+
+#### Stretch
+
+- [ ] Solve `/exercism/`
+- [ ] Solve `/exercism/`
+- [ ] Solve `/exercism/`
+- [ ] Solve `/exercism/`
+- [ ] Solve `/exercism/`
+- [ ] Solve `/exercism/`
+- [ ] Solve `/exercism/`
+
+- [ ] Solve `/exercism/phone-number`
+- [ ] Solve `/exercism/word-count`
+- [ ] Solve `/exercism/gigasecond`
+- [ ] Solve `/exercism/leap`
+
+### Day 2 - Exercism
+
+- [ ] Solve `/exercism/secret-handshake`
+- [ ] Solve `/exercism/wordy`
+- [ ] Solve `/exercism/largest-series-product`
+- [ ] Solve `/exercism/robot-simulator`
+- [ ] Solve `/exercism/rna-transcription`
+- [ ] Solve `/exercism/bob`
+
+
+#### Stretch
+
+- [ ] Solve `/exercism/isogram`
+- [ ] Solve `/exercism/trinary`
+- [ ] Solve `/exercism/octal`
+- [ ] Solve `/exercism/hexadecimal`
+- [ ] Solve `/exercism/two-bucket`
+- [ ] Solve `/exercism/all-your-base`
+
+### Day 3 - Exercism
+
+- [ ] Solve `/exercism/kindergarten-garden`
+- [ ] Solve `/exercism/nth-prime`
+- [ ] Solve `/exercism/palindrome-products`
+- [ ] Solve `/exercism/say`
+- [ ] Solve `/exercism/queen-attack`
+
+#### Stretch
+
+- [ ] Solve `/exercism/luhn`
+- [ ] Solve `/exercism/pythagorean-triplet`
+- [ ] Solve `/exercism/beer-song`
+- [ ] Solve `/exercism/grade-school`
+
+
+
+# Day 4 - Sudoku
+
+Time for a longer challenge. We'll spend the next two days building a sudoku solver
+
+- [ ] Ship Step 1 of [Sudoku Challenge](/Sudoku/README.md)
+- [ ] Ship Step 2 of [Sudoku Challenge](/Sudoku/README.md)
+
+# Day 5 - More Sudoku
+
+- [ ] Ship Step 3 of [Sudoku Challenge](/Sudoku/README.md)
+
+#### Stretch
+
+- [ ] Ship Step 4 of [Sudoku Challenge](/Sudoku/README.md)
+
 ---
-
-# Core Vanilla Javascript [Solo Study]
-
-## Challenge Rating
-
-This goal will likely be within your ZPD if you...
-
-x- Can open, edit, and save files with a text editor
-x- Can use a web browser to search, explore, and consume content from the Internet
-x- Are familiar with the concept of programs as instructions for a computer
-x- Are beginning to write correct JavaScript and understand its syntax
-x- Are getting started reading and writing JavaScript control structures, basic functions, and data types
-x- Are interested in strengthening your knowledge of and fluency with JavaScript
-
-## Description
-
-A day-by-day structured deep dive into the basics of JavaScript. Read articles, watch videos, complete lessons and exercises.
-
-This goal makes heavy use of external resources: the [JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) course on [Udacity](https://www.udacity.com/), books like [Eloquent JavaScript](http://eloquentjavascript.net), and various video tutorials.
-
-Fork the the [core-vanilla-javascript repository][core-vjs] and use the fork as your project artifact.
-
-In the [solo_study.md][core-vjs-solo] you'll find that this goal is broken down into daily objectives and tasks in order to support you in pacing yourself. There are a ton of stretch goals at the end, so make sure to go with the recommended pace or faster to get the most out of it.
-
-## Context
-
-Before getting started building web applications, it's important to get a grounding into the basics of programming and JavaScript. Becoming a full stack web developer means that you need to be comfortable with the core language first, before using it in the web stack.
-
-Choose this goal if you're just getting started with the basics of JavaScript and programming and want to gain a solid foothold. This will be an immersive, intensive, and highly structured study.
-
-## Specifications
-
-- [X] Artifact produced is a fork of the [core-vjs][core-vjs] repo.
-- [X] All readings and videos in the `solo_study.md` file are completed and checked off.
-- [ ] All exercises and lessons in the `solo_study.md` file are completed and checked off.
-- [ ] Final project is complete and in the proper directory of the artifact.
-
-**Note: It's important to checkoff each reading/video/exercise in the README.md of your forked repo, and commit the change, and push to github at least twice a day**
-
-### Stretch
-
-- [ ] All stretch tasks in the `solo_study.md` are completed.
-
-## Quality Rubric
-
-**Clean code and commit messages**
-- Code is well formatted with proper spacing and indentation. [40 points]
-- Descriptive, well-named functions, variables, files, CSS classes, etc. [40 points]
-- Commit messages are concise and descriptive. [20 points]
-
-[core-vjs]: https://github.com/GuildCrafts/core-vanilla-javascript
-[core-vjs-solo]: https://github.com/GuildCrafts/core-vanilla-javascript/blob/master/solo_study.md
